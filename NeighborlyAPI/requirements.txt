@@ -1,2 +1,16 @@
+azure-core==1.30.2
+azure-cosmos==4.7.0
 azure-functions==1.2.1
+certifi==2024.6.2
+charset-normalizer==3.3.2
+distlib==0.3.8
+filelock==3.15.4
+idna==3.7
+pipenv==2024.0.1
+platformdirs==4.2.2
 pymongo==3.10.1
+requests==2.32.3
+six==1.16.0
+typing_extensions==4.12.2
+urllib3==2.2.2
+virtualenv==20.26.3
